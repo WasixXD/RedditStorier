@@ -37,4 +37,3 @@ PS: maybe because the project was not authorized by google, the video always get
 
 
 
-if you think the project is cool, consider leaving a star and subscribing to the story channel.
