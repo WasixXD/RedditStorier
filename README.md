@@ -4,7 +4,7 @@ A video maker bot about reddit comments in r/AskReddit<br>
 channel link: [Reddit Storier Channel](https://www.youtube.com/channel/UCTCzl863i54MPp-uINvdyTg)
 
 # Brief 📖
-After seeing Filipe Deschamps' video making bot, I was inspired and wanted to create mine. But different from his, mine is not about trivia, but about comments from a super cool subreddit.
+After seeing Filipe Deschamps' video about making a bot, I was inspired and wanted to create mine. But different from his, mine is not about trivia, but about comments from a super cool subreddit.
 
 <br>
 
